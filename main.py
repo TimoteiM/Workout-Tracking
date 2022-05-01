@@ -54,8 +54,8 @@ for exercise in result["exercises"]:
         sheet_endpoint,
         json=sheet_inputs,
         auth=(
-            "moscaliuctimotei@gmail.com",
-            "Sarpele123",
+            "secret",
+            "secret",
         )
     )
 
